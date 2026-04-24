@@ -39,7 +39,7 @@ st.title("📚 RAG Document Q&A")
 st.caption(
     "Ask questions about AI engineering. Answers grounded in a curated corpus "
     "of foundational papers + practical cookbooks. "
-    "[Source & eval on GitHub](https://github.com/ALchemt)"
+    "[Source & eval on GitHub](https://github.com/ALchemt/rag-qa)"
 )
 
 with st.sidebar:

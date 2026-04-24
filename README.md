@@ -22,7 +22,7 @@ A junior AI engineer wants to query "what is RAG?", "how does reranking work?", 
 
 **Live:** 🔗 [**alchemt-rag-qa.hf.space**](https://alchemt-rag-qa.hf.space/) (hosted on HF Spaces, free CPU tier)
 
-**Repo:** [github.com/ALchemt/AgenticSystem/tree/main/ai-portfolio/rag-qa](https://github.com/ALchemt/AgenticSystem/tree/main/ai-portfolio/rag-qa)
+**Repo:** [github.com/ALchemt/rag-qa](https://github.com/ALchemt/rag-qa)
 
 **5 example questions the demo handles:**
 1. What is RAG and what problem does it solve?
@@ -140,5 +140,5 @@ MIT.
 
 ---
 
-Portfolio project by Andrey Ovsyannikov ([github.com/ALchemt](https://github.com/ALchemt)).
-Part of a 4-project AI portfolio — see parent directory for others.
+Portfolio project by Andrey Ovsyannikov — [github.com/ALchemt/rag-qa](https://github.com/ALchemt/rag-qa).
+Companion project: [github.com/ALchemt/llm-eval](https://github.com/ALchemt/llm-eval) — regression eval framework.
